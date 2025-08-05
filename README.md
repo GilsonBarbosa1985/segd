@@ -1,2 +1,0 @@
-# segd
-Site comercial
